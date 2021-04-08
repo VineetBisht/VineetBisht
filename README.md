@@ -11,8 +11,9 @@
 - 🏦 I recently graduated from Humber College Canada and am persuing a DevOps Career. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .py```, ```.sql```,```.js```
-- ✅  I am an AWS Certified Solutions Architect Associate as well as Developer Associate.
-- 💻 I'm also working on Docker, Jenkins, Kubernetes, Prometheus, Terraform and Ansible.
+- ✅ I am an AWS Certified Solutions Architect Associate as well as a Certified Developer Associate.
+- ✅ I also achieved a Java Professional SE11 Certification. 
+- 💻 I'm currently working on Docker, Jenkins, Kubernetes, Prometheus, Terraform and Ansible.
 - 💬 Love football (soccer 😆), guitar and of-course coding. 
 - 👯 Also love to learn from and connect to new people. 
 - ⚡ Fun fact: Je connais un peu le français
