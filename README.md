@@ -12,7 +12,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .py```, ```.sql```,```.js```
 - ✅ I am an AWS Certified Solutions Architect Associate as well as a Certified Developer Associate.
-- ✅ I also achieved a Java Professional SE11 Certification. 
+- ✅ Also a Java Professional SE11 Certification. 
 - 💻 I'm currently working on Docker, Jenkins, Kubernetes, Prometheus, Terraform and Ansible.
 - 💬 Love football (soccer 😆), guitar and of-course coding. 
 - 👯 Also love to learn from and connect to new people. 
