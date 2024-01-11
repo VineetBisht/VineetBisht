@@ -8,12 +8,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I recently graduated from Humber College, Canada and am pursuing a DevOps | Software Engineer Career. 
+- 🏦 Iam a Humber College, Canada Post Graduate and am a DevOps | Software Engineer. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```,```.js```
-- ✅ I am an AWS Certified Solutions Architect Associate as well as a Certified Developer Associate.
-- ✅ Also a Java Professional SE11 Certification. 
-- 💻 I'm currently working on Docker, Jenkins, Kubernetes, Prometheus, Terraform and Ansible.
+- 🤔 I use daily ```.java```,``` .py```, ```.sql```,```.js```,```DevOps```
+- ✅ I am an AWS Certified Solutions Architect Associate as well as a Certified DevOps Associate.
+- ✅ Also a Azure Administrator Associate Certification. 
+- 💻 I'm currently working on DevOps tools such as Docker, Jenkins, Kubernetes, Prometheus, Terraform, Ansible etc.
 - 💬 Love football (soccer 😆), guitar and of-course coding. 
 - 👯 Also love to learn from and connect to new people. 
 - ⚡ Fun fact: Je connais un peu le français
